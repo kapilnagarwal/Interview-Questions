@@ -12,6 +12,13 @@ Input: No of stalls = 5
 
 Output: One integer, the largest minimum distance 3
 
+==============================================================
+
+Time complexity: O(n* m)
+
+Space Complexity: O(1) 
+
+===============================================================
 */
 
 #include <bits/stdc++.h>
